@@ -1,0 +1,92 @@
+list of clients:
+id: 3 processingTime: 2 arrivalTime: 15
+id: 4 processingTime: 2 arrivalTime: 17
+id: 2 processingTime: 3 arrivalTime: 25
+id: 1 processingTime: 3 arrivalTime: 28
+time: 1
+Server 1 waitingTime:0 current tasks: 
+Server 2 waitingTime:0 current tasks: 
+time: 2
+Server 1 waitingTime:0 current tasks: 
+Server 2 waitingTime:0 current tasks: 
+time: 3
+Server 1 waitingTime:0 current tasks: 
+Server 2 waitingTime:0 current tasks: 
+time: 4
+Server 1 waitingTime:0 current tasks: 
+Server 2 waitingTime:0 current tasks: 
+time: 5
+Server 1 waitingTime:0 current tasks: 
+Server 2 waitingTime:0 current tasks: 
+time: 6
+Server 1 waitingTime:0 current tasks: 
+Server 2 waitingTime:0 current tasks: 
+time: 7
+Server 1 waitingTime:0 current tasks: 
+Server 2 waitingTime:0 current tasks: 
+time: 8
+Server 1 waitingTime:0 current tasks: 
+Server 2 waitingTime:0 current tasks: 
+time: 9
+Server 1 waitingTime:0 current tasks: 
+Server 2 waitingTime:0 current tasks: 
+time: 10
+Server 1 waitingTime:0 current tasks: 
+Server 2 waitingTime:0 current tasks: 
+time: 11
+Server 1 waitingTime:0 current tasks: 
+Server 2 waitingTime:0 current tasks: 
+time: 12
+Server 1 waitingTime:0 current tasks: 
+Server 2 waitingTime:0 current tasks: 
+time: 13
+Server 1 waitingTime:0 current tasks: 
+Server 2 waitingTime:0 current tasks: 
+time: 14
+Server 1 waitingTime:0 current tasks: 
+Server 2 waitingTime:0 current tasks: 
+time: 15
+Server 1 waitingTime:2 current tasks:  id: 3 processingTime: 2 arrivalTime: 15
+Server 2 waitingTime:0 current tasks: 
+time: 16
+Server 1 waitingTime:1 current tasks:  id: 3 processingTime: 1 arrivalTime: 15
+Server 2 waitingTime:0 current tasks: 
+time: 17
+Server 1 waitingTime:2 current tasks:  id: 4 processingTime: 2 arrivalTime: 17
+Server 2 waitingTime:0 current tasks: 
+time: 18
+Server 1 waitingTime:1 current tasks:  id: 4 processingTime: 1 arrivalTime: 17
+Server 2 waitingTime:0 current tasks: 
+time: 19
+Server 1 waitingTime:0 current tasks: 
+Server 2 waitingTime:0 current tasks: 
+time: 20
+Server 1 waitingTime:0 current tasks: 
+Server 2 waitingTime:0 current tasks: 
+time: 21
+Server 1 waitingTime:0 current tasks: 
+Server 2 waitingTime:0 current tasks: 
+time: 22
+Server 1 waitingTime:0 current tasks: 
+Server 2 waitingTime:0 current tasks: 
+time: 23
+Server 1 waitingTime:0 current tasks: 
+Server 2 waitingTime:0 current tasks: 
+time: 24
+Server 1 waitingTime:0 current tasks: 
+Server 2 waitingTime:0 current tasks: 
+time: 25
+Server 1 waitingTime:3 current tasks:  id: 2 processingTime: 3 arrivalTime: 25
+Server 2 waitingTime:0 current tasks: 
+time: 26
+Server 1 waitingTime:2 current tasks:  id: 2 processingTime: 2 arrivalTime: 25
+Server 2 waitingTime:0 current tasks: 
+time: 27
+Server 1 waitingTime:1 current tasks:  id: 2 processingTime: 1 arrivalTime: 25
+Server 2 waitingTime:0 current tasks: 
+time: 28
+Server 1 waitingTime:3 current tasks:  id: 1 processingTime: 3 arrivalTime: 28
+Server 2 waitingTime:0 current tasks: 
+peak time: 15 with 1 running tasks
+average waiting time for a task to be inserted in a server: 20.25
+average service time to complete a task: 2.50

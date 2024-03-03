@@ -1,0 +1,282 @@
+list of clients:
+id: 16 processingTime: 6 arrivalTime: 2
+id: 29 processingTime: 5 arrivalTime: 2
+id: 46 processingTime: 6 arrivalTime: 2
+id: 48 processingTime: 6 arrivalTime: 4
+id: 26 processingTime: 4 arrivalTime: 5
+id: 35 processingTime: 3 arrivalTime: 5
+id: 44 processingTime: 1 arrivalTime: 5
+id: 13 processingTime: 3 arrivalTime: 6
+id: 21 processingTime: 6 arrivalTime: 8
+id: 43 processingTime: 6 arrivalTime: 9
+id: 10 processingTime: 1 arrivalTime: 11
+id: 42 processingTime: 5 arrivalTime: 11
+id: 25 processingTime: 3 arrivalTime: 12
+id: 31 processingTime: 6 arrivalTime: 12
+id: 23 processingTime: 1 arrivalTime: 13
+id: 40 processingTime: 4 arrivalTime: 13
+id: 8 processingTime: 4 arrivalTime: 14
+id: 41 processingTime: 4 arrivalTime: 16
+id: 19 processingTime: 4 arrivalTime: 18
+id: 22 processingTime: 4 arrivalTime: 19
+id: 27 processingTime: 5 arrivalTime: 19
+id: 15 processingTime: 2 arrivalTime: 20
+id: 45 processingTime: 4 arrivalTime: 20
+id: 50 processingTime: 5 arrivalTime: 21
+id: 5 processingTime: 2 arrivalTime: 22
+id: 37 processingTime: 5 arrivalTime: 22
+id: 49 processingTime: 6 arrivalTime: 22
+id: 2 processingTime: 6 arrivalTime: 23
+id: 28 processingTime: 3 arrivalTime: 23
+id: 18 processingTime: 6 arrivalTime: 25
+id: 33 processingTime: 5 arrivalTime: 26
+id: 24 processingTime: 3 arrivalTime: 27
+id: 3 processingTime: 5 arrivalTime: 28
+id: 30 processingTime: 3 arrivalTime: 30
+id: 4 processingTime: 3 arrivalTime: 31
+id: 6 processingTime: 3 arrivalTime: 31
+id: 7 processingTime: 4 arrivalTime: 33
+id: 9 processingTime: 6 arrivalTime: 33
+id: 11 processingTime: 3 arrivalTime: 33
+id: 20 processingTime: 2 arrivalTime: 33
+id: 1 processingTime: 6 arrivalTime: 34
+id: 17 processingTime: 4 arrivalTime: 34
+id: 32 processingTime: 1 arrivalTime: 34
+id: 12 processingTime: 2 arrivalTime: 35
+id: 38 processingTime: 3 arrivalTime: 35
+id: 36 processingTime: 2 arrivalTime: 36
+id: 39 processingTime: 3 arrivalTime: 36
+id: 14 processingTime: 1 arrivalTime: 37
+id: 47 processingTime: 4 arrivalTime: 37
+id: 34 processingTime: 1 arrivalTime: 38
+time: 1
+Server 1 waitingTime:0 current tasks: 
+Server 2 waitingTime:0 current tasks: 
+Server 3 waitingTime:0 current tasks: 
+Server 4 waitingTime:0 current tasks: 
+Server 5 waitingTime:0 current tasks: 
+time: 2
+Server 1 waitingTime:6 current tasks:  id: 16 processingTime: 6 arrivalTime: 2
+Server 2 waitingTime:5 current tasks:  id: 29 processingTime: 5 arrivalTime: 2
+Server 3 waitingTime:6 current tasks:  id: 46 processingTime: 6 arrivalTime: 2
+Server 4 waitingTime:0 current tasks: 
+Server 5 waitingTime:0 current tasks: 
+time: 3
+Server 1 waitingTime:5 current tasks:  id: 16 processingTime: 5 arrivalTime: 2
+Server 2 waitingTime:4 current tasks:  id: 29 processingTime: 4 arrivalTime: 2
+Server 3 waitingTime:5 current tasks:  id: 46 processingTime: 5 arrivalTime: 2
+Server 4 waitingTime:0 current tasks: 
+Server 5 waitingTime:0 current tasks: 
+time: 4
+Server 1 waitingTime:4 current tasks:  id: 16 processingTime: 4 arrivalTime: 2
+Server 2 waitingTime:3 current tasks:  id: 29 processingTime: 3 arrivalTime: 2
+Server 3 waitingTime:4 current tasks:  id: 46 processingTime: 4 arrivalTime: 2
+Server 4 waitingTime:6 current tasks:  id: 48 processingTime: 6 arrivalTime: 4
+Server 5 waitingTime:0 current tasks: 
+time: 5
+Server 1 waitingTime:4 current tasks:  id: 16 processingTime: 3 arrivalTime: 2 id: 44 processingTime: 1 arrivalTime: 5
+Server 2 waitingTime:5 current tasks:  id: 29 processingTime: 2 arrivalTime: 2 id: 35 processingTime: 3 arrivalTime: 5
+Server 3 waitingTime:3 current tasks:  id: 46 processingTime: 3 arrivalTime: 2
+Server 4 waitingTime:5 current tasks:  id: 48 processingTime: 5 arrivalTime: 4
+Server 5 waitingTime:4 current tasks:  id: 26 processingTime: 4 arrivalTime: 5
+time: 6
+Server 1 waitingTime:3 current tasks:  id: 16 processingTime: 2 arrivalTime: 2 id: 44 processingTime: 1 arrivalTime: 5
+Server 2 waitingTime:4 current tasks:  id: 29 processingTime: 1 arrivalTime: 2 id: 35 processingTime: 3 arrivalTime: 5
+Server 3 waitingTime:5 current tasks:  id: 46 processingTime: 2 arrivalTime: 2 id: 13 processingTime: 3 arrivalTime: 6
+Server 4 waitingTime:4 current tasks:  id: 48 processingTime: 4 arrivalTime: 4
+Server 5 waitingTime:3 current tasks:  id: 26 processingTime: 3 arrivalTime: 5
+time: 7
+Server 1 waitingTime:2 current tasks:  id: 16 processingTime: 1 arrivalTime: 2 id: 44 processingTime: 1 arrivalTime: 5
+Server 2 waitingTime:3 current tasks:  id: 35 processingTime: 3 arrivalTime: 5
+Server 3 waitingTime:4 current tasks:  id: 46 processingTime: 1 arrivalTime: 2 id: 13 processingTime: 3 arrivalTime: 6
+Server 4 waitingTime:3 current tasks:  id: 48 processingTime: 3 arrivalTime: 4
+Server 5 waitingTime:2 current tasks:  id: 26 processingTime: 2 arrivalTime: 5
+time: 8
+Server 1 waitingTime:7 current tasks:  id: 44 processingTime: 1 arrivalTime: 5 id: 21 processingTime: 6 arrivalTime: 8
+Server 2 waitingTime:2 current tasks:  id: 35 processingTime: 2 arrivalTime: 5
+Server 3 waitingTime:3 current tasks:  id: 13 processingTime: 3 arrivalTime: 6
+Server 4 waitingTime:2 current tasks:  id: 48 processingTime: 2 arrivalTime: 4
+Server 5 waitingTime:1 current tasks:  id: 26 processingTime: 1 arrivalTime: 5
+time: 9
+Server 1 waitingTime:6 current tasks:  id: 21 processingTime: 6 arrivalTime: 8
+Server 2 waitingTime:1 current tasks:  id: 35 processingTime: 1 arrivalTime: 5
+Server 3 waitingTime:2 current tasks:  id: 13 processingTime: 2 arrivalTime: 6
+Server 4 waitingTime:1 current tasks:  id: 48 processingTime: 1 arrivalTime: 4
+Server 5 waitingTime:6 current tasks:  id: 43 processingTime: 6 arrivalTime: 9
+time: 10
+Server 1 waitingTime:5 current tasks:  id: 21 processingTime: 5 arrivalTime: 8
+Server 2 waitingTime:0 current tasks: 
+Server 3 waitingTime:1 current tasks:  id: 13 processingTime: 1 arrivalTime: 6
+Server 4 waitingTime:0 current tasks: 
+Server 5 waitingTime:5 current tasks:  id: 43 processingTime: 5 arrivalTime: 9
+time: 11
+Server 1 waitingTime:4 current tasks:  id: 21 processingTime: 4 arrivalTime: 8
+Server 2 waitingTime:1 current tasks:  id: 10 processingTime: 1 arrivalTime: 11
+Server 3 waitingTime:5 current tasks:  id: 42 processingTime: 5 arrivalTime: 11
+Server 4 waitingTime:0 current tasks: 
+Server 5 waitingTime:4 current tasks:  id: 43 processingTime: 4 arrivalTime: 9
+time: 12
+Server 1 waitingTime:3 current tasks:  id: 21 processingTime: 3 arrivalTime: 8
+Server 2 waitingTime:3 current tasks:  id: 25 processingTime: 3 arrivalTime: 12
+Server 3 waitingTime:4 current tasks:  id: 42 processingTime: 4 arrivalTime: 11
+Server 4 waitingTime:6 current tasks:  id: 31 processingTime: 6 arrivalTime: 12
+Server 5 waitingTime:3 current tasks:  id: 43 processingTime: 3 arrivalTime: 9
+time: 13
+Server 1 waitingTime:3 current tasks:  id: 21 processingTime: 2 arrivalTime: 8 id: 23 processingTime: 1 arrivalTime: 13
+Server 2 waitingTime:6 current tasks:  id: 25 processingTime: 2 arrivalTime: 12 id: 40 processingTime: 4 arrivalTime: 13
+Server 3 waitingTime:3 current tasks:  id: 42 processingTime: 3 arrivalTime: 11
+Server 4 waitingTime:5 current tasks:  id: 31 processingTime: 5 arrivalTime: 12
+Server 5 waitingTime:2 current tasks:  id: 43 processingTime: 2 arrivalTime: 9
+time: 14
+Server 1 waitingTime:2 current tasks:  id: 21 processingTime: 1 arrivalTime: 8 id: 23 processingTime: 1 arrivalTime: 13
+Server 2 waitingTime:5 current tasks:  id: 25 processingTime: 1 arrivalTime: 12 id: 40 processingTime: 4 arrivalTime: 13
+Server 3 waitingTime:2 current tasks:  id: 42 processingTime: 2 arrivalTime: 11
+Server 4 waitingTime:4 current tasks:  id: 31 processingTime: 4 arrivalTime: 12
+Server 5 waitingTime:5 current tasks:  id: 43 processingTime: 1 arrivalTime: 9 id: 8 processingTime: 4 arrivalTime: 14
+time: 15
+Server 1 waitingTime:1 current tasks:  id: 23 processingTime: 1 arrivalTime: 13
+Server 2 waitingTime:4 current tasks:  id: 40 processingTime: 4 arrivalTime: 13
+Server 3 waitingTime:1 current tasks:  id: 42 processingTime: 1 arrivalTime: 11
+Server 4 waitingTime:3 current tasks:  id: 31 processingTime: 3 arrivalTime: 12
+Server 5 waitingTime:4 current tasks:  id: 8 processingTime: 4 arrivalTime: 14
+time: 16
+Server 1 waitingTime:4 current tasks:  id: 41 processingTime: 4 arrivalTime: 16
+Server 2 waitingTime:3 current tasks:  id: 40 processingTime: 3 arrivalTime: 13
+Server 3 waitingTime:0 current tasks: 
+Server 4 waitingTime:2 current tasks:  id: 31 processingTime: 2 arrivalTime: 12
+Server 5 waitingTime:3 current tasks:  id: 8 processingTime: 3 arrivalTime: 14
+time: 17
+Server 1 waitingTime:3 current tasks:  id: 41 processingTime: 3 arrivalTime: 16
+Server 2 waitingTime:2 current tasks:  id: 40 processingTime: 2 arrivalTime: 13
+Server 3 waitingTime:0 current tasks: 
+Server 4 waitingTime:1 current tasks:  id: 31 processingTime: 1 arrivalTime: 12
+Server 5 waitingTime:2 current tasks:  id: 8 processingTime: 2 arrivalTime: 14
+time: 18
+Server 1 waitingTime:2 current tasks:  id: 41 processingTime: 2 arrivalTime: 16
+Server 2 waitingTime:1 current tasks:  id: 40 processingTime: 1 arrivalTime: 13
+Server 3 waitingTime:4 current tasks:  id: 19 processingTime: 4 arrivalTime: 18
+Server 4 waitingTime:0 current tasks: 
+Server 5 waitingTime:1 current tasks:  id: 8 processingTime: 1 arrivalTime: 14
+time: 19
+Server 1 waitingTime:1 current tasks:  id: 41 processingTime: 1 arrivalTime: 16
+Server 2 waitingTime:4 current tasks:  id: 22 processingTime: 4 arrivalTime: 19
+Server 3 waitingTime:3 current tasks:  id: 19 processingTime: 3 arrivalTime: 18
+Server 4 waitingTime:5 current tasks:  id: 27 processingTime: 5 arrivalTime: 19
+Server 5 waitingTime:0 current tasks: 
+time: 20
+Server 1 waitingTime:2 current tasks:  id: 15 processingTime: 2 arrivalTime: 20
+Server 2 waitingTime:3 current tasks:  id: 22 processingTime: 3 arrivalTime: 19
+Server 3 waitingTime:2 current tasks:  id: 19 processingTime: 2 arrivalTime: 18
+Server 4 waitingTime:4 current tasks:  id: 27 processingTime: 4 arrivalTime: 19
+Server 5 waitingTime:4 current tasks:  id: 45 processingTime: 4 arrivalTime: 20
+time: 21
+Server 1 waitingTime:6 current tasks:  id: 15 processingTime: 1 arrivalTime: 20 id: 50 processingTime: 5 arrivalTime: 21
+Server 2 waitingTime:2 current tasks:  id: 22 processingTime: 2 arrivalTime: 19
+Server 3 waitingTime:1 current tasks:  id: 19 processingTime: 1 arrivalTime: 18
+Server 4 waitingTime:3 current tasks:  id: 27 processingTime: 3 arrivalTime: 19
+Server 5 waitingTime:3 current tasks:  id: 45 processingTime: 3 arrivalTime: 20
+time: 22
+Server 1 waitingTime:5 current tasks:  id: 50 processingTime: 5 arrivalTime: 21
+Server 2 waitingTime:6 current tasks:  id: 22 processingTime: 1 arrivalTime: 19 id: 37 processingTime: 5 arrivalTime: 22
+Server 3 waitingTime:8 current tasks:  id: 5 processingTime: 2 arrivalTime: 22 id: 49 processingTime: 6 arrivalTime: 22
+Server 4 waitingTime:2 current tasks:  id: 27 processingTime: 2 arrivalTime: 19
+Server 5 waitingTime:2 current tasks:  id: 45 processingTime: 2 arrivalTime: 20
+time: 23
+Server 1 waitingTime:4 current tasks:  id: 50 processingTime: 4 arrivalTime: 21
+Server 2 waitingTime:5 current tasks:  id: 37 processingTime: 5 arrivalTime: 22
+Server 3 waitingTime:7 current tasks:  id: 5 processingTime: 1 arrivalTime: 22 id: 49 processingTime: 6 arrivalTime: 22
+Server 4 waitingTime:7 current tasks:  id: 27 processingTime: 1 arrivalTime: 19 id: 2 processingTime: 6 arrivalTime: 23
+Server 5 waitingTime:4 current tasks:  id: 45 processingTime: 1 arrivalTime: 20 id: 28 processingTime: 3 arrivalTime: 23
+time: 24
+Server 1 waitingTime:3 current tasks:  id: 50 processingTime: 3 arrivalTime: 21
+Server 2 waitingTime:4 current tasks:  id: 37 processingTime: 4 arrivalTime: 22
+Server 3 waitingTime:6 current tasks:  id: 49 processingTime: 6 arrivalTime: 22
+Server 4 waitingTime:6 current tasks:  id: 2 processingTime: 6 arrivalTime: 23
+Server 5 waitingTime:3 current tasks:  id: 28 processingTime: 3 arrivalTime: 23
+time: 25
+Server 1 waitingTime:8 current tasks:  id: 50 processingTime: 2 arrivalTime: 21 id: 18 processingTime: 6 arrivalTime: 25
+Server 2 waitingTime:3 current tasks:  id: 37 processingTime: 3 arrivalTime: 22
+Server 3 waitingTime:5 current tasks:  id: 49 processingTime: 5 arrivalTime: 22
+Server 4 waitingTime:5 current tasks:  id: 2 processingTime: 5 arrivalTime: 23
+Server 5 waitingTime:2 current tasks:  id: 28 processingTime: 2 arrivalTime: 23
+time: 26
+Server 1 waitingTime:7 current tasks:  id: 50 processingTime: 1 arrivalTime: 21 id: 18 processingTime: 6 arrivalTime: 25
+Server 2 waitingTime:2 current tasks:  id: 37 processingTime: 2 arrivalTime: 22
+Server 3 waitingTime:4 current tasks:  id: 49 processingTime: 4 arrivalTime: 22
+Server 4 waitingTime:4 current tasks:  id: 2 processingTime: 4 arrivalTime: 23
+Server 5 waitingTime:6 current tasks:  id: 28 processingTime: 1 arrivalTime: 23 id: 33 processingTime: 5 arrivalTime: 26
+time: 27
+Server 1 waitingTime:6 current tasks:  id: 18 processingTime: 6 arrivalTime: 25
+Server 2 waitingTime:4 current tasks:  id: 37 processingTime: 1 arrivalTime: 22 id: 24 processingTime: 3 arrivalTime: 27
+Server 3 waitingTime:3 current tasks:  id: 49 processingTime: 3 arrivalTime: 22
+Server 4 waitingTime:3 current tasks:  id: 2 processingTime: 3 arrivalTime: 23
+Server 5 waitingTime:5 current tasks:  id: 33 processingTime: 5 arrivalTime: 26
+time: 28
+Server 1 waitingTime:5 current tasks:  id: 18 processingTime: 5 arrivalTime: 25
+Server 2 waitingTime:3 current tasks:  id: 24 processingTime: 3 arrivalTime: 27
+Server 3 waitingTime:7 current tasks:  id: 49 processingTime: 2 arrivalTime: 22 id: 3 processingTime: 5 arrivalTime: 28
+Server 4 waitingTime:2 current tasks:  id: 2 processingTime: 2 arrivalTime: 23
+Server 5 waitingTime:4 current tasks:  id: 33 processingTime: 4 arrivalTime: 26
+time: 29
+Server 1 waitingTime:4 current tasks:  id: 18 processingTime: 4 arrivalTime: 25
+Server 2 waitingTime:2 current tasks:  id: 24 processingTime: 2 arrivalTime: 27
+Server 3 waitingTime:6 current tasks:  id: 49 processingTime: 1 arrivalTime: 22 id: 3 processingTime: 5 arrivalTime: 28
+Server 4 waitingTime:1 current tasks:  id: 2 processingTime: 1 arrivalTime: 23
+Server 5 waitingTime:3 current tasks:  id: 33 processingTime: 3 arrivalTime: 26
+time: 30
+Server 1 waitingTime:3 current tasks:  id: 18 processingTime: 3 arrivalTime: 25
+Server 2 waitingTime:1 current tasks:  id: 24 processingTime: 1 arrivalTime: 27
+Server 3 waitingTime:5 current tasks:  id: 3 processingTime: 5 arrivalTime: 28
+Server 4 waitingTime:3 current tasks:  id: 30 processingTime: 3 arrivalTime: 30
+Server 5 waitingTime:2 current tasks:  id: 33 processingTime: 2 arrivalTime: 26
+time: 31
+Server 1 waitingTime:2 current tasks:  id: 18 processingTime: 2 arrivalTime: 25
+Server 2 waitingTime:3 current tasks:  id: 4 processingTime: 3 arrivalTime: 31
+Server 3 waitingTime:4 current tasks:  id: 3 processingTime: 4 arrivalTime: 28
+Server 4 waitingTime:2 current tasks:  id: 30 processingTime: 2 arrivalTime: 30
+Server 5 waitingTime:4 current tasks:  id: 33 processingTime: 1 arrivalTime: 26 id: 6 processingTime: 3 arrivalTime: 31
+time: 32
+Server 1 waitingTime:1 current tasks:  id: 18 processingTime: 1 arrivalTime: 25
+Server 2 waitingTime:2 current tasks:  id: 4 processingTime: 2 arrivalTime: 31
+Server 3 waitingTime:3 current tasks:  id: 3 processingTime: 3 arrivalTime: 28
+Server 4 waitingTime:1 current tasks:  id: 30 processingTime: 1 arrivalTime: 30
+Server 5 waitingTime:3 current tasks:  id: 6 processingTime: 3 arrivalTime: 31
+time: 33
+Server 1 waitingTime:4 current tasks:  id: 7 processingTime: 4 arrivalTime: 33
+Server 2 waitingTime:4 current tasks:  id: 4 processingTime: 1 arrivalTime: 31 id: 11 processingTime: 3 arrivalTime: 33
+Server 3 waitingTime:4 current tasks:  id: 3 processingTime: 2 arrivalTime: 28 id: 20 processingTime: 2 arrivalTime: 33
+Server 4 waitingTime:6 current tasks:  id: 9 processingTime: 6 arrivalTime: 33
+Server 5 waitingTime:2 current tasks:  id: 6 processingTime: 2 arrivalTime: 31
+time: 34
+Server 1 waitingTime:7 current tasks:  id: 7 processingTime: 3 arrivalTime: 33 id: 17 processingTime: 4 arrivalTime: 34
+Server 2 waitingTime:4 current tasks:  id: 11 processingTime: 3 arrivalTime: 33 id: 32 processingTime: 1 arrivalTime: 34
+Server 3 waitingTime:3 current tasks:  id: 3 processingTime: 1 arrivalTime: 28 id: 20 processingTime: 2 arrivalTime: 33
+Server 4 waitingTime:5 current tasks:  id: 9 processingTime: 5 arrivalTime: 33
+Server 5 waitingTime:7 current tasks:  id: 6 processingTime: 1 arrivalTime: 31 id: 1 processingTime: 6 arrivalTime: 34
+time: 35
+Server 1 waitingTime:6 current tasks:  id: 7 processingTime: 2 arrivalTime: 33 id: 17 processingTime: 4 arrivalTime: 34
+Server 2 waitingTime:6 current tasks:  id: 11 processingTime: 2 arrivalTime: 33 id: 32 processingTime: 1 arrivalTime: 34 id: 38 processingTime: 3 arrivalTime: 35
+Server 3 waitingTime:4 current tasks:  id: 20 processingTime: 2 arrivalTime: 33 id: 12 processingTime: 2 arrivalTime: 35
+Server 4 waitingTime:4 current tasks:  id: 9 processingTime: 4 arrivalTime: 33
+Server 5 waitingTime:6 current tasks:  id: 1 processingTime: 6 arrivalTime: 34
+time: 36
+Server 1 waitingTime:5 current tasks:  id: 7 processingTime: 1 arrivalTime: 33 id: 17 processingTime: 4 arrivalTime: 34
+Server 2 waitingTime:5 current tasks:  id: 11 processingTime: 1 arrivalTime: 33 id: 32 processingTime: 1 arrivalTime: 34 id: 38 processingTime: 3 arrivalTime: 35
+Server 3 waitingTime:5 current tasks:  id: 20 processingTime: 1 arrivalTime: 33 id: 12 processingTime: 2 arrivalTime: 35 id: 36 processingTime: 2 arrivalTime: 36
+Server 4 waitingTime:6 current tasks:  id: 9 processingTime: 3 arrivalTime: 33 id: 39 processingTime: 3 arrivalTime: 36
+Server 5 waitingTime:5 current tasks:  id: 1 processingTime: 5 arrivalTime: 34
+time: 37
+Server 1 waitingTime:5 current tasks:  id: 17 processingTime: 4 arrivalTime: 34 id: 14 processingTime: 1 arrivalTime: 37
+Server 2 waitingTime:8 current tasks:  id: 32 processingTime: 1 arrivalTime: 34 id: 38 processingTime: 3 arrivalTime: 35 id: 47 processingTime: 4 arrivalTime: 37
+Server 3 waitingTime:4 current tasks:  id: 12 processingTime: 2 arrivalTime: 35 id: 36 processingTime: 2 arrivalTime: 36
+Server 4 waitingTime:5 current tasks:  id: 9 processingTime: 2 arrivalTime: 33 id: 39 processingTime: 3 arrivalTime: 36
+Server 5 waitingTime:4 current tasks:  id: 1 processingTime: 4 arrivalTime: 34
+time: 38
+Server 1 waitingTime:4 current tasks:  id: 17 processingTime: 3 arrivalTime: 34 id: 14 processingTime: 1 arrivalTime: 37
+Server 2 waitingTime:7 current tasks:  id: 38 processingTime: 3 arrivalTime: 35 id: 47 processingTime: 4 arrivalTime: 37
+Server 3 waitingTime:4 current tasks:  id: 12 processingTime: 1 arrivalTime: 35 id: 36 processingTime: 2 arrivalTime: 36 id: 34 processingTime: 1 arrivalTime: 38
+Server 4 waitingTime:4 current tasks:  id: 9 processingTime: 1 arrivalTime: 33 id: 39 processingTime: 3 arrivalTime: 36
+Server 5 waitingTime:3 current tasks:  id: 1 processingTime: 3 arrivalTime: 34
+peak time: 36 with 11 running tasks
+average waiting time for a task to be inserted in a server: 20.30
+average service time to complete a task: 3.80
