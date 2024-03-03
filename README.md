@@ -178,14 +178,14 @@ _the run method used by the main SimulationManager thread_
 ## Bibliography
 
 Oracle Java Tutorials - Threads:
-https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html
+https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html  
 Oracle Java Tutorials - Synchronization:
-https://docs.oracle.com/javase/tutorial/essential/concurrency/sync.html
+https://docs.oracle.com/javase/tutorial/essential/concurrency/sync.html  
 Java Concurrency Utilities - java.util.concurrent package:
-https://docs.oracle.com/javase/8/docs/api/java.base/java/util/concurrent/package-summary.html
+https://docs.oracle.com/javase/8/docs/api/java.base/java/util/concurrent/package-summary.html  
 Oracle Java Tutorials - Executor Interfaces:
-https://docs.oracle.com/javase/tutorial/essential/concurrency/executors.html
+https://docs.oracle.com/javase/tutorial/essential/concurrency/executors.html  
 Stack Overflow - Thread and Synchronization questions:
-https://stackoverflow.com/questions/tagged/java+multithreading+synchronization
+https://stackoverflow.com/questions/tagged/java+multithreading+synchronization  
 Queue Management Systems - Research Papers:
 https://www.semanticscholar.org/topic/queue-management-system/1990329
